@@ -14,7 +14,8 @@ dividir(numeroUm / numeroDois)
 potenciar(numeroUm ^ numeroDois)
 Escreva os algoritmos de todos os métodos acima.
 
-2. Utilizando o framework de testes JUnit, Crie a classe CalculadoraTeste.Java.
+
+Utilizando o framework de testes JUnit, Crie a classe CalculadoraTeste.Java.
 Escreva testes unitários para cada um dos métodos da solução Calculadora
 feita no exercício anterior.
 Os testes podem ser feitos na versão junit 4 ou na versão junit 5.
